@@ -1,0 +1,7 @@
+diff --git a/README.md b/README.md
+index 19343cd..33e7059 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1 @@
+-esto es información modificada
++esto es información sin modificar
